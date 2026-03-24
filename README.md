@@ -1,1 +1,1 @@
-This repository is the official implementation of the paper: Local-Global Fusion via Evidential Learning for Hard Sample in Medical Image Classification.
+This repository is the official implementation of the paper: Evidential Deep Learning-based Global and Local Feature Fusion for Medical Image Classification.
